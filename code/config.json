@@ -1,0 +1,7 @@
+{
+    "grid": {
+        "size_mm": 5.0,
+        "rows": 6,
+        "columns": 11
+    }
+}
